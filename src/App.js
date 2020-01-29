@@ -28,7 +28,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App container">
-        <h1>Sogeti Employee Directory </h1>
+        <h1>Sogeti Employee Direct </h1>
         < div className="row">
           {this.state.employees.map((employee, index) => {
             return (
