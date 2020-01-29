@@ -2,6 +2,24 @@
   text-align: center;
 }
 
+
+
+#cat-directory {
+width: 190px;
+border-radius: 15px;
+margin: 19px;
+}
+
+#city{
+  width: 30%;
+}
+
+.directory-entry{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
